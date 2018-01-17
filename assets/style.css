@@ -304,14 +304,7 @@ input[type=submit] {
     width: 100%;
     float: left;
   }
-  /*Why didn't photo take up top line and move paragraph language below? */
-  .auth-image{
-    width: 100%;
-    height: auto;
-    margin-bottom: 20px;
-  }
- /*Could not get photo to take up who part of screen and get paragraph to drop below like in the photo. Please advise how to fix*/
-  .container p{
-    width: 100%;
-  }
+  /*.work:nth-child(even) {
+  margin-right: 10%;
+  }*/
 }
